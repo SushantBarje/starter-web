@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Sushant    sushant.barje@gmail.com	@sushant
 
 # THANKS
 
